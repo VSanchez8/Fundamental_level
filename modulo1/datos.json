@@ -1,0 +1,6 @@
+[
+    {"id": 1, "nombre": "Victor", "rol": "admin", "email": "victor@test.com"},
+    {"id": 2, "nombre": "Ana", "rol": "editor", "email": "ana-at-test.com"},
+    {"id": "uno", "nombre": "prueba_error", "rol": "prueba"},
+    {"id": 4, "nombre": "Luis", "rol": "invitado", "email": "luis@test.com"}
+]
